@@ -8,7 +8,8 @@ import java.util.List;
 /**
  * @author: 权某人
  * @create: 2025-06-26 09:14
- * @Description:
+ * @Description: 66. 加一
+ * https://leetcode.cn/problems/plus-one/description/
  */
 public class SumOne {
 
